@@ -1,6 +1,6 @@
 
 public class Test {
   public static void main(String[] args) {
-	System.err.println("ffsf");
+	System.err.println("ffsf232");
 }
 }
